@@ -1,0 +1,75 @@
+.p_div {
+    background-color: maroon;
+    border-radius:8px;
+    display: flex;
+}
+
+.div_a {
+    background-color: darkmagenta;
+    border-radius:8px;
+    color: aliceblue;
+    font-size: 16px;
+    line-height: 10px;
+}
+
+#contact {
+    color: black;
+    margin-bottom:50px;
+    text-decoration: underline;
+    text-decoration-color:gray;
+    text-decoration-style:solid ;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 8px;
+}
+
+#skill {
+    color: black;
+    line-height:80px;
+    text-decoration: underline;
+    text-decoration-color:gray;
+    text-decoration-style:solid ;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 8px;
+}
+
+.skill_ul {
+    line-height: 25px;
+}
+
+#language {
+    color: black;
+    line-height:80px;
+    text-decoration: underline;
+    text-decoration-color:gray;
+    text-decoration-style:solid ;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 8px;
+}
+
+.lang_ul {
+    line-height: 25px;
+}
+
+#hobbies {
+    color: black;
+    line-height:80px;
+    text-decoration: underline;
+    text-decoration-color:gray;
+    text-decoration-style:solid ;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 8px;
+}
+
+.hob_ul {
+    line-height: 25px;
+}
+
+#profile {
+    color: black;
+    line-height:80px;
+    text-decoration: underline;
+    text-decoration-color:gray;
+    text-decoration-style:solid ;
+    text-decoration-thickness: 3px;
+    text-underline-offset: 8px;
+}
